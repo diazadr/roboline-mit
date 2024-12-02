@@ -8,7 +8,7 @@ A mobile application designed to control a line follower robot. This app include
 
 ### **Splash Screen**
 - The app starts with a **Splash Screen**. After a timer expires, it transitions automatically to the **Login Page**.
-- <img src="https://github.com/user-attachments/assets/70fbbca7-e668-4de3-ac68-f6d22645b8e5" alt="Control Screen" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/70fbbca7-e668-4de3-ac68-f6d22645b8e5" alt="Control Screen" style="height: 300px; width: auto;">
 
 
 ---
