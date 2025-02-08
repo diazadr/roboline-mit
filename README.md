@@ -1,7 +1,6 @@
 # Roboline Controller Application
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen)  
-[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)  [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 This project is a mobile application designed to control a line follower robot.  
 It integrates with **Bluetooth HC-05** for seamless connectivity.
