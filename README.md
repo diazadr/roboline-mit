@@ -41,6 +41,9 @@ After logging in, users are directed to the **Control Screen**, which includes t
 ## **Project Status**
 This project is **completed** and will not be further developed.
 
+## Acknowledgements
+This project was inspired by tutorials from the [How to Make a Line Follower and Android Application Control Robot | Arduino and MIT App Inventor](https://www.youtube.com/watch?v=ItvJbyYNP8s) video.
+
 ## **Contributions**
 Feel free to submit issues or contribute to this project by creating pull requests.
 
