@@ -44,6 +44,12 @@ This project is **completed** and will not be further developed.
 ## Acknowledgements
 This project was inspired by tutorials from the [How to Make a Line Follower and Android Application Control Robot | Arduino and MIT App Inventor](https://www.youtube.com/watch?v=ItvJbyYNP8s) video.
 
+Special thanks to the team for their work on mechanical design, wiring, and providing all necessary components:
+
+- **Bayu Putra Pamungkas**  
+- **Mahendra Nur Pramudiansyah**  
+- **Ihsan Alfarisi**
+
 ## **Contributions**
 Feel free to submit issues or contribute to this project by creating pull requests.
 
